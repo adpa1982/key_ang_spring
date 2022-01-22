@@ -1,0 +1,6 @@
+
+spring.application.name=servicio-user
+
+#Puerto del servicio para que Eureka lo asigne automaticamente
+server.port=8082
+

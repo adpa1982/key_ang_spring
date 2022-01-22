@@ -1,0 +1,8 @@
+package com.tutorial.user.service;
+
+@Service
+public class UserService {
+	
+	
+
+}

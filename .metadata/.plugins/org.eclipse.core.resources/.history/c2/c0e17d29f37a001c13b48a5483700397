@@ -1,0 +1,18 @@
+package com.tutorial.user.feingclients;
+
+import java.util.List;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.*;
+
+@FeignClient(name = "microservice-car", url = "http://localhost:8083")
+@RequestMapping("/car")
+public class CarFeignClient {
+	
+	@PostMapping()
+    Car save(@RequestBody Car car);
+
+    @GetMapping("/byuser/{userId}")
+    List<Car> getCars(@PathVariable("userId") Long userId);
+
+}

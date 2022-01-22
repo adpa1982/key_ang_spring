@@ -1,0 +1,5 @@
+package com.tutorial.user.feingclients;
+
+public class CarFeignClient {
+
+}

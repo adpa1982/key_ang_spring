@@ -1,0 +1,10 @@
+package com.tutorial.user.feingclients;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.*;
+
+@FeignClient(name = "car-service", url = "http://localhost:8083")
+@RequestMapping("/car")
+public class CarFeignClient {
+
+}

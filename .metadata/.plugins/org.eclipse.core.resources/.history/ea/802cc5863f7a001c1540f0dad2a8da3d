@@ -1,0 +1,5 @@
+package com.tutorial.user.entity;
+
+public class User {
+
+}

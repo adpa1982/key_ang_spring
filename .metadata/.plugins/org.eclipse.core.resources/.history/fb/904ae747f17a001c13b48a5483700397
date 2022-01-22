@@ -1,0 +1,10 @@
+package com.tutorial.user.feingclients;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@FeignClient(name = "bike-service", url = "http://localhost:8004")
+@RequestMapping("/bike")
+public interface BikeFeignClient {
+
+}

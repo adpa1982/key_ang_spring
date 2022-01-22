@@ -1,0 +1,16 @@
+package com.tutorial.user.feingclients;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.*;
+
+@FeignClient(name = "bike-service", url = "http://localhost:8004")
+@RequestMapping("/bike")
+public interface BikeFeignClient {
+	
+	@PostMapping()
+    Bike save(@RequestBody Bike bike);
+
+    @GetMapping("/byuser/{userId}")
+    List<Bike> getBikes(@PathVariable("userId") int userId);
+
+}

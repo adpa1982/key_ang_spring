@@ -1,0 +1,5 @@
+package com.tutorial.user.model;
+
+public class Bike {
+
+}
