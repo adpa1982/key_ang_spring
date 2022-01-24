@@ -4287,3 +4287,33 @@ Contains: Missing org.springframework.cloud:spring-cloud-starter-sleuth:jar:sour
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-24 11:38:14.633
 !MESSAGE executing callback sts4.classpath.ExeSnbgF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-24 11:56:53.398
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-24 11:56:53.417
+!MESSAGE classpath=177 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-24 11:56:53.439
+!MESSAGE buffering callback sts4.classpath.ExeSnbgF microservice-car false 177
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-24 11:56:53.439
+!MESSAGE executing callback sts4.classpath.ExeSnbgF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-24 11:56:53.458
+!MESSAGE executing callback sts4.classpath.ExeSnbgF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-24 11:57:00.397
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-24 11:57:00.408
+!MESSAGE classpath=177 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-24 11:57:00.443
+!MESSAGE buffering callback sts4.classpath.ExeSnbgF microservice-bike false 177
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-24 11:57:00.443
+!MESSAGE executing callback sts4.classpath.ExeSnbgF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-24 11:57:00.488
+!MESSAGE executing callback sts4.classpath.ExeSnbgF SUCCESS [done]

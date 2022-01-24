@@ -6,7 +6,6 @@ INDEX VERSION 1.131+D:\Proyectos\Keycloack\key_ang_spring\backend\.metadata\.plu
 2825916952.index
 42855017.index
 2862010134.index
-2379678446.index
 795453913.index
 1286997021.index
 2426844575.index
