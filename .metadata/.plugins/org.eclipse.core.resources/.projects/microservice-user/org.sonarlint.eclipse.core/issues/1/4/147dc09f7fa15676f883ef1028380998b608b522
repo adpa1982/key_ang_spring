@@ -1,0 +1,60 @@
+
+c
+java:S1481Q"+Remove this unused "carNew" local variable.(¥ıÀûÿÿÿÿ8¼âòç/H÷RMINORZ
+CODE_SMELL
+`
+java:S1172r"(Remove this unused method parameter "e".(ÂÙŞĞûÿÿÿÿ8ê®“şç/HùRMAJORZ
+CODE_SMELL
+‡
+java:S1192k"LDefine a constant instead of duplicating this literal "El usuario " 5 times.(ŞŸåüÿÿÿÿ8ê®“şç/HûRCRITICALZ
+CODE_SMELL
+_
+java:S1481[",Remove this unused "bikeNew" local variable.(Ü¸Ë8ÜÔâòç/HRMINORZ
+CODE_SMELL
+i
+java:S1172n"1Remove these unused method parameters "car", "e".(ñ¬ËÈûÿÿÿÿ8ê®“şç/HƒRMAJORZ
+CODE_SMELL
+g
+java:S3740{"/Provide the parametrized type for this generic.(ÏĞØ€üÿÿÿÿ8ê®“şç/H‡RMAJORZ
+CODE_SMELL
+j
+java:S1172v"2Remove these unused method parameters "bike", "e".(«‡ÿ©üÿÿÿÿ8ê®“şç/HˆRMAJORZ
+CODE_SMELL
+m
+java:S1144r"5Remove this unused private "fallBackGetBikes" method.(ÂÙŞĞûÿÿÿÿ8ê®“şç/HŒRMAJORZ
+CODE_SMELL
+l
+java:S1144n"4Remove this unused private "fallBackSaveCar" method.(ñ¬ËÈûÿÿÿÿ8ê®“şç/HRMAJORZ
+CODE_SMELL
+g
+java:S3740s"/Provide the parametrized type for this generic.(¤çî¤ùÿÿÿÿ8ê®“şç/HRMAJORZ
+CODE_SMELL
+[
+java:S1172j"(Remove this unused method parameter "e".(¯©Û˜8ê®“şç/H‘RMAJORZ
+CODE_SMELL
+[
+java:S1172z"(Remove this unused method parameter "e".(Â¶«ˆ8ê®“şç/H“RMAJORZ
+CODE_SMELL
+n
+java:S1854[";Remove this useless assignment to local variable "bikeNew".(Ü¸Ë8ÜÔâòç/H•RMAJORZ
+CODE_SMELL
+m
+java:S1144v"5Remove this unused private "fallBackSaveBike" method.(«‡ÿ©üÿÿÿÿ8ê®“şç/H–RMAJORZ
+CODE_SMELL
+g
+java:S3740o"/Provide the parametrized type for this generic.(µ­¶ÿÿÿÿÿ8ê®“şç/H˜RMAJORZ
+CODE_SMELL
+r
+java:S1854Q":Remove this useless assignment to local variable "carNew".(¥ıÀûÿÿÿÿ8¼âòç/H™RMAJORZ
+CODE_SMELL
+w
+java:S4684,"@Replace this persistent entity with a simple POJO or DTO object.(«Í€ùÿÿÿÿHšRCRITICALZVULNERABILITY
+g
+java:S1144j"4Remove this unused private "fallBackGetCars" method.(¯©Û˜8ê®“şç/H›RMAJORZ
+CODE_SMELL
+g
+java:S3740w"/Provide the parametrized type for this generic.(ú¯µ»ûÿÿÿÿ8ê®“şç/HRMAJORZ
+CODE_SMELL
+g
+java:S3740k"/Provide the parametrized type for this generic.(ŞŸåüÿÿÿÿ8ê®“şç/HRMAJORZ
+CODE_SMELL

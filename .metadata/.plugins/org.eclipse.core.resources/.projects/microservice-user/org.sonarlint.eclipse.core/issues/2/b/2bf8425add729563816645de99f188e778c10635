@@ -1,0 +1,10 @@
+
+—
+java:S1488F"_Immediately return this expression instead of assigning it to the temporary variable "bikeNew".(ίτ±όÿÿÿÿ8¨¦―ρη/HκRMINORZ
+CODE_SMELL
+–
+java:S1488@"^Immediately return this expression instead of assigning it to the temporary variable "carNew".(°Ίλωÿÿÿÿ8¨¦―ρη/HηRMINORZ
+CODE_SMELL
+
+java:S1488*"_Immediately return this expression instead of assigning it to the temporary variable "userNew".(Ί²¥ψÿÿÿÿH£RMINORZ
+CODE_SMELL
